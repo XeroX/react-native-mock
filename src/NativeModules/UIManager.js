@@ -66,6 +66,9 @@ const UIManager = {
       DrawerPosition: { Left: 8388611, Right: 8388613 },
     },
   },
+  getViewManagerConfig() {
+
+  },
 };
 
 module.exports = UIManager;
